@@ -1,12 +1,12 @@
 {
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Minimal snapshot-centered context engine (MCP server over stdio)",
   "homepage": "https://github.com/z23cc/context-engine-rs",
   "license": "MIT OR Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/z23cc/context-engine-rs/releases/download/v0.0.11/ctx-mcp.exe",
-      "hash": "78efe7845f64a932220b06094938ebcfed213490ce9abf2008b0a56ecc11a4bf"
+      "url": "https://github.com/z23cc/context-engine-rs/releases/download/v0.0.12/ctx-mcp.exe",
+      "hash": "4c5433b5cea253d927563e632cbbfd1ed13db0d6829f21ecd95b93988b1f512e"
     }
   },
   "bin": "ctx-mcp.exe",
