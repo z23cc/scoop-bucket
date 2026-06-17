@@ -1,0 +1,21 @@
+{
+  "version": "0.0.31",
+  "description": "Local AI workstation runtime and MCP adapter",
+  "homepage": "https://github.com/z23cc/context-engine-rs",
+  "license": "MIT OR Apache-2.0",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/z23cc/context-engine-rs/releases/download/v0.0.31/nerve.exe",
+      "hash": "b2dd1ae8188fd0cf5b66434af9a8f003c8b38cf5baa8dd121bfe8576c3703f7e"
+    }
+  },
+  "bin": "nerve.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/z23cc/context-engine-rs/releases/download/v$version/nerve.exe"
+      }
+    }
+  }
+}
