@@ -1,12 +1,12 @@
 {
-  "version": "0.0.40",
+  "version": "0.0.41",
   "description": "Local AI workstation runtime and MCP adapter",
   "homepage": "https://github.com/z23cc/nerve-workstation",
   "license": "MIT OR Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/z23cc/nerve-workstation/releases/download/v0.0.40/nerve.exe",
-      "hash": "171ed106d6c05e8395bf4c48ab16d7082adce1cd1c080af704f40481a4a9058f"
+      "url": "https://github.com/z23cc/nerve-workstation/releases/download/v0.0.41/nerve.exe",
+      "hash": "a095febf2052e2cc7c408bdaf1622e91d583bf419ef6b91d8f7a48e2cbb7f7ca"
     }
   },
   "bin": "nerve.exe",
